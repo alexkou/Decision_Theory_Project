@@ -1,1 +1,1 @@
-# Decision_Thory_Project
+# Decision_Theory_Project
